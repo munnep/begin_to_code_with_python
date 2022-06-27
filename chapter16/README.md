@@ -41,4 +41,4 @@ Added the following to make sure the screen doesn't close
                    is_running = False
 ```                   
 
-Look at the final game in directory chapter 11 Complete Game
+Look at the final game in directory - 11 Complete Game
